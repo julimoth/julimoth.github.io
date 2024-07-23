@@ -29,7 +29,7 @@ url: https://julimoth.github.io
 github_username:  julimoth
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
